@@ -17,22 +17,6 @@ This end-to-end system consists of:
 
 ---
 
-## 🧩 Code Structure
-
-```
-📁 Job-Portal/
-│
-├── job-scraper-app.py        # Streamlit frontend for job exploration and refresh
-├── pipeline.py               # Main pipeline orchestrator with scheduler + merging
-├── jobspresso.py             # Scraper for Jobspresso sales jobs
-├── naukri.py                 # Scraper for Naukri sales jobs
-├── talent.py                 # Scraper for Talent.com sales jobs
-├── jobspresso_data/
-│   ├── scraper_log.txt       # Runtime logs for debugging & transparency
-│   └── merged_jobs.csv       # Final output CSV shown in dashboard
-```
-
----
 
 ## ⚙️ Backend Logic
 
