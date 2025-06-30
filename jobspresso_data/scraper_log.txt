@@ -1,0 +1,1335 @@
+[2025-06-29 21:51:14.549547] 🚀 Automation script started.
+[2025-06-29 21:51:14.549547] Scheduler started: Running every 1 minute.
+[2025-06-29 21:52:14.556880] === Scraping Job STARTED ===
+[2025-06-29 21:52:14.557911] Running jobspresso.py...
+[2025-06-29 21:52:43.993578] jobspresso.py completed.
+[2025-06-29 21:52:43.993578] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 21:52:43.993578] Running naukri.py...
+[2025-06-29 21:55:27.582291] naukri.py completed.
+[2025-06-29 21:55:27.582291] STDOUT: [DEBUG] Navigating to Naukri SDR jobs page...
+[DEBUG] Waiting for job titles to load...
+[DEBUG] Found 20 job links.
+[DEBUG] Waiting for company names to load...
+[DEBUG] Captured 25 company names.
+[DEBUG] Starting individual job page scraping...
+Scraping job 1/25: https://www.naukri.com/job-listings-looking-for-sdr-not-a-seat-warmer-a-door-opener-z-h-consultancy-services-kochi-2-to-7-years-230525015046
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 2/25: https://www.naukri.com/job-listings-sdr-sam-manpower-career-services-bengaluru-1-to-3-years-270625030392
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 3/25: https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122
+[DEBUG] Raw experience string: 8 - 13 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 4/25: https://www.naukri.com/job-listings-sdr-professional-pricelabs-remote-1-to-3-years-240625503113
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 5/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-jamnagar-2-to-7-years-250625933927
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 6/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-bhavnagar-2-to-7-years-250625933929
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 7/25: https://www.naukri.com/job-listings-sdr-us-healthcare-leadsquared-bengaluru-1-to-4-years-180625503897
+[DEBUG] Raw experience string: 1 - 4 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 8/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-ahmedabad-2-to-7-years-250625933924
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 9/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-agami-tech-private-limited-mumbai-gurugram-2-to-7-years-120525501606
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 10/25: https://www.naukri.com/job-listings-sdr-konnect-insights-mumbai-1-to-3-years-230625500132
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 11/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-i4-consulting-bengaluru-2-to-5-years-230625011450
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: FinTech / Payments
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 12/25: https://www.naukri.com/job-listings-enterprise-sales-development-sdr-intern-squadrun-inc-noida-0-to-1-years-120625503426
+[DEBUG] Raw experience string: 3 months duration
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-15, Refreshed this week? False
+Scraping job 13/25: https://www.naukri.com/job-listings-sdr-outbound-keka-hyderabad-2-to-4-years-220525502297
+[DEBUG] Raw experience string: 2 - 4 years
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 14/25: https://www.naukri.com/job-listings-sdr-manager-usa-gocomet-bengaluru-2-to-6-years-200625503269
+[DEBUG] Raw experience string: 2 - 6 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 15/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-sharpsell-ai-mumbai-andheri-east-1-to-3-years-230625923570
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 16/25: https://www.naukri.com/job-listings-inside-sales-executive-sdr-aion-tech-solutions-mumbai-all-areas-2-to-5-years-240625014928
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 17/25: https://www.naukri.com/job-listings-senior-sales-development-representative-sdr-north-america-leena-ai-gurugram-5-to-10-years-221024500647
+[DEBUG] Raw experience string: 5 - 10 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 18/25: https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170
+[DEBUG] Raw experience string: 3 - 5 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 19/25: https://www.naukri.com/job-listings-sdr-senior-manager-apac-jfrog-bengaluru-7-to-12-years-270625503157
+[DEBUG] Raw experience string: 7 - 12 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 20/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524
+[DEBUG] Raw experience string: 3 - 5 years
+[DEBUG] Extracted Industry Type: Legal
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+[DEBUG] Saving scraped data to CSV...
+Scraped and saved to sdr_jobs_final.csv
+[2025-06-29 21:55:27.622154] Loaded Jobspresso: 67 rows
+[2025-06-29 21:55:27.654139] Loaded Naukri: 19 rows
+[2025-06-29 21:55:27.656139] Loaded Talent: 20 rows
+[2025-06-29 21:55:27.671433] Merged CSV saved with 103 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-29 21:55:27.671433] === Scraping Job COMPLETED ===
+
+[2025-06-29 21:55:27.672662] ✅ Completed scheduled run #1
+[2025-06-29 21:56:27.678691] === Scraping Job STARTED ===
+[2025-06-29 21:56:27.679317] Running jobspresso.py...
+[2025-06-29 21:56:57.055206] jobspresso.py completed.
+[2025-06-29 21:56:57.055206] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 21:56:57.055206] Running naukri.py...
+[2025-06-29 22:02:09.903257] 🚀 Automation script started.
+[2025-06-29 22:02:09.904257] Scheduler started: Will run 1 times every 1 minute.
+[2025-06-29 22:03:09.909705] === Scraping Job STARTED ===
+[2025-06-29 22:03:09.909705] Running jobspresso.py...
+[2025-06-29 22:03:40.204685] jobspresso.py completed.
+[2025-06-29 22:03:40.204685] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 22:03:40.205682] Running naukri.py...
+[2025-06-29 22:06:24.512744] naukri.py completed.
+[2025-06-29 22:06:24.512744] STDOUT: [DEBUG] Navigating to Naukri SDR jobs page...
+[DEBUG] Waiting for job titles to load...
+[DEBUG] Found 20 job links.
+[DEBUG] Waiting for company names to load...
+[DEBUG] Captured 25 company names.
+[DEBUG] Starting individual job page scraping...
+Scraping job 1/25: https://www.naukri.com/job-listings-looking-for-sdr-not-a-seat-warmer-a-door-opener-z-h-consultancy-services-kochi-2-to-7-years-230525015046
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 2/25: https://www.naukri.com/job-listings-sdr-sam-manpower-career-services-bengaluru-1-to-3-years-270625030392
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 3/25: https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122
+[DEBUG] Raw experience string: 8 - 13 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 4/25: https://www.naukri.com/job-listings-sdr-professional-pricelabs-remote-1-to-3-years-240625503113
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 5/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-jamnagar-2-to-7-years-250625933927
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 6/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-bhavnagar-2-to-7-years-250625933929
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 7/25: https://www.naukri.com/job-listings-sdr-us-healthcare-leadsquared-bengaluru-1-to-4-years-180625503897
+[DEBUG] Raw experience string: 1 - 4 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 8/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-ahmedabad-2-to-7-years-250625933924
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 9/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-agami-tech-private-limited-mumbai-gurugram-2-to-7-years-120525501606
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 10/25: https://www.naukri.com/job-listings-sdr-konnect-insights-mumbai-1-to-3-years-230625500132
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 11/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-i4-consulting-bengaluru-2-to-5-years-230625011450
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: FinTech / Payments
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 12/25: https://www.naukri.com/job-listings-enterprise-sales-development-sdr-intern-squadrun-inc-noida-0-to-1-years-120625503426
+[DEBUG] Raw experience string: 3 months duration
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-15, Refreshed this week? False
+Scraping job 13/25: https://www.naukri.com/job-listings-sdr-outbound-keka-hyderabad-2-to-4-years-220525502297
+[DEBUG] Raw experience string: 2 - 4 years
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 14/25: https://www.naukri.com/job-listings-sdr-manager-usa-gocomet-bengaluru-2-to-6-years-200625503269
+[DEBUG] Raw experience string: 2 - 6 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 15/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-sharpsell-ai-mumbai-andheri-east-1-to-3-years-230625923570
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 16/25: https://www.naukri.com/job-listings-inside-sales-executive-sdr-aion-tech-solutions-mumbai-all-areas-2-to-5-years-240625014928
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 17/25: https://www.naukri.com/job-listings-senior-sales-development-representative-sdr-north-america-leena-ai-gurugram-5-to-10-years-221024500647
+[DEBUG] Raw experience string: 5 - 10 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 18/25: https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170
+[DEBUG] Raw experience string: 3 - 5 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 19/25: https://www.naukri.com/job-listings-sdr-senior-manager-apac-jfrog-bengaluru-7-to-12-years-270625503157
+[DEBUG] Raw experience string: 7 - 12 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 20/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524
+[DEBUG] Raw experience string: 3 - 5 years
+[DEBUG] Extracted Industry Type: Legal
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+[DEBUG] Saving scraped data to CSV...
+Scraped and saved to sdr_jobs_final.csv
+[2025-06-29 22:06:24.564336] Loaded Jobspresso: 67 rows
+[2025-06-29 22:06:24.575324] Loaded Naukri: 19 rows
+[2025-06-29 22:06:24.580335] Loaded Talent: 20 rows
+[2025-06-29 22:06:24.607321] Merged CSV saved with 103 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-29 22:06:24.608321] === Scraping Job COMPLETED ===
+
+[2025-06-29 22:06:24.608321] 🔁 Completed run 1 of 1
+[2025-06-29 22:30:20.975212] 🚀 Automation script started.
+[2025-06-29 22:30:20.975212] Scheduler started: Will run 1 times every 1 minute.
+[2025-06-29 22:31:20.981940] === Scraping Job STARTED ===
+[2025-06-29 22:31:20.981940] Running jobspresso.py...
+[2025-06-29 22:31:52.394306] jobspresso.py completed.
+[2025-06-29 22:31:52.394306] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 22:31:52.394306] Running naukri.py...
+[2025-06-29 22:34:40.350697] naukri.py completed.
+[2025-06-29 22:34:40.350697] STDOUT: [DEBUG] Navigating to Naukri SDR jobs page...
+[DEBUG] Waiting for job titles to load...
+[DEBUG] Found 20 job links.
+[DEBUG] Waiting for company names to load...
+[DEBUG] Captured 25 company names.
+[DEBUG] Starting individual job page scraping...
+Scraping job 1/25: https://www.naukri.com/job-listings-looking-for-sdr-not-a-seat-warmer-a-door-opener-z-h-consultancy-services-kochi-2-to-7-years-230525015046
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 2/25: https://www.naukri.com/job-listings-sdr-sam-manpower-career-services-bengaluru-1-to-3-years-270625030392
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 3/25: https://www.naukri.com/job-listings-women-from-sdr-become-a-recruiter-wfh-jobs-territory-bengaluru-4-to-9-years-180625012503
+[DEBUG] Raw experience string: 4 - 9 years
+[DEBUG] Extracted Industry Type: Recruitment / Staffing
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 4/25: https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122
+[DEBUG] Raw experience string: 8 - 13 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 5/25: https://www.naukri.com/job-listings-sdr-professional-pricelabs-remote-1-to-3-years-240625503113
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 6/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-jamnagar-2-to-7-years-250625933927
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 7/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-bhavnagar-2-to-7-years-250625933929
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 8/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-coderenowned-bengaluru-0-to-2-years-160625502082
+[DEBUG] Raw experience string: 0 - 2 years
+[DEBUG] Extracted Industry Type: Advertising & Marketing
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 9/25: https://www.naukri.com/job-listings-sdr-us-healthcare-leadsquared-bengaluru-1-to-4-years-180625503897
+[DEBUG] Raw experience string: 1 - 4 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 10/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-ahmedabad-2-to-7-years-250625933924
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 11/25: https://www.naukri.com/job-listings-sdr-konnect-insights-mumbai-1-to-3-years-230625500132
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 12/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-i4-consulting-bengaluru-2-to-5-years-230625011450
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: FinTech / Payments
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 13/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-for-pooling-portcast-bengaluru-0-to-1-years-180625502551
+[DEBUG] Raw experience string: 0 - 1 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 14/25: https://www.naukri.com/job-listings-sdr-manager-usa-gocomet-bengaluru-2-to-6-years-200625503269
+[DEBUG] Raw experience string: 2 - 6 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 15/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-sharpsell-ai-mumbai-andheri-east-1-to-3-years-230625923570
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 16/25: https://www.naukri.com/job-listings-inside-sales-executive-sdr-aion-tech-solutions-mumbai-all-areas-2-to-5-years-240625014928
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 17/25: https://www.naukri.com/job-listings-sdr-2-trask-bengaluru-4-to-9-years-200625504240
+[DEBUG] Raw experience string: 4 - 9 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 18/25: https://www.naukri.com/job-listings-founding-sdr-weekday-yc-w21-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-3-to-6-years-180625504040
+[DEBUG] Raw experience string: 3 - 6 years
+[DEBUG] Extracted Industry Type: Recruitment / Staffing
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 19/25: https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170
+[DEBUG] Raw experience string: 3 - 5 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 20/25: https://www.naukri.com/job-listings-sdr-senior-manager-apac-jfrog-bengaluru-7-to-12-years-270625503157
+[DEBUG] Raw experience string: 7 - 12 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+[DEBUG] Saving scraped data to CSV...
+Scraped and saved to sdr_jobs_final.csv
+[2025-06-29 22:34:40.350697] Running talent.py...
+[2025-06-29 22:35:32.423792] talent.py completed.
+[2025-06-29 22:35:32.423792] STDOUT: DEBUG: 
+--- Scraping page 1 ---
+DEBUG: Status code: 200 from https://www.talent.com/jobs?k=sales%2Bdevelopment%2Brepresentative&l=united%2Bstates&p=1 with params {'k': 'sales+development+representative', 'l': 'united+states', 'p': 1}
+DEBUG: Found 19 job cards on page 1
+DEBUG: Processing card #1
+DEBUG: Location: Austin, TX, US, Date Posted: N/A, Company: Doxel
+DEBUG: Full description text length: 3454
+DEBUG: Match found: <re.Match object; span=(2031, 2040), match='1-2 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce, HubSpot
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #2
+DEBUG: Location: Carrollton, VA, United States, Date Posted: N/A, Company: CLAE SOLUTIONS
+DEBUG: Full description text length: 1975
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=1b49210e32e8
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-20, Refreshed This Week: False
+DEBUG: Processing card #3
+DEBUG: Location: Boca Raton, FL, US, Date Posted: N/A, Company: GRUBBRR
+DEBUG: Full description text length: 3184
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=2bceccdf5bbe
+DEBUG: Tools mentioned: Salesforce
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #4
+DEBUG: Location: Dallas, TX, US, Date Posted: N/A, Company: Refinere
+DEBUG: Full description text length: 4657
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=208be4526842
+DEBUG: Tools mentioned: HubSpot, ZoomInfo
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #5
+DEBUG: Location: Irvine, CA, US, Date Posted: N/A, Company: Super Color Digital, LLC
+DEBUG: Full description text length: 3771
+DEBUG: Match found: <re.Match object; span=(3330, 3339), match='0-2 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce, LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #6
+DEBUG: Location: Weatherford, TX, US, Date Posted: N/A, Company: Trophy Insurance Group
+DEBUG: Full description text length: 1277
+DEBUG: Match found: <re.Match object; span=(1170, 1178), match='2+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #7
+DEBUG: Location: Tustin, CA, US, Date Posted: N/A, Company: Specright Inc.
+DEBUG: Full description text length: 4260
+DEBUG: Match found: <re.Match object; span=(2000, 2009), match='1-3 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce, Outreach.io, LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #8
+DEBUG: Location: Ogden, UT, US, Date Posted: N/A, Company: KSTA I.T.
+DEBUG: Full description text length: 4336
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=d47f276d6148
+DEBUG: Tools mentioned: HubSpot, ZoomInfo
+DEBUG: Parsed Date: 2025-06-21, Refreshed This Week: False
+DEBUG: Processing card #9
+DEBUG: Location: Salt Lake City, UT, US, Date Posted: N/A, Company: Robert Half
+DEBUG: Full description text length: 1865
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=129fb03fcaa8
+DEBUG: Tools mentioned: Salesforce
+DEBUG: Parsed Date: 2025-06-19, Refreshed This Week: False
+DEBUG: Processing card #10
+DEBUG: Location: Missoula, MT, US, Date Posted: N/A, Company: Univision Computers
+DEBUG: Full description text length: 3460
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=bdff4897d48e
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #11
+DEBUG: Location: Santa Rosa, CA, US, Date Posted: N/A, Company: SuperOps
+DEBUG: Full description text length: 3345
+DEBUG: Match found: <re.Match object; span=(2743, 2754), match='5 - 5 years'>
+DEBUG: Experience level determined: Mid-level
+DEBUG: Tools mentioned: HubSpot, SalesLoft, LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #12
+DEBUG: Location: Turlock, CA, US, Date Posted: N/A, Company: Valley Milk, LLC
+DEBUG: Full description text length: 1352
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=dfeca936cb20
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #13
+DEBUG: Location: Hayward, CA, United States, Date Posted: N/A, Company: MPH Tech Academy
+DEBUG: Full description text length: 2980
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=17cebf7ae831
+DEBUG: Tools mentioned: LinkedIn Sales Navigator
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #14
+DEBUG: Location: Tallahassee, Florida, United States, Date Posted: N/A, Company: VirtualVocations
+DEBUG: Full description text length: 741
+DEBUG: Match found: <re.Match object; span=(403, 412), match='1-3 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-01, Refreshed This Week: False
+DEBUG: Processing card #15
+DEBUG: Location: Indianapolis, IN, US, Date Posted: N/A, Company: Greenlight Guru
+DEBUG: Full description text length: 4118
+DEBUG: Match found: <re.Match object; span=(2364, 2371), match='2 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #16
+DEBUG: Location: Cleveland, OH, US, Date Posted: N/A, Company: Builders Capital
+DEBUG: Full description text length: 4601
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=50b23ea31ba3
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-25, Refreshed This Week: True
+DEBUG: Processing card #17
+DEBUG: Location: Cleveland, OH, US, Date Posted: N/A, Company: AM Industrial Group LLC
+DEBUG: Full description text length: 1628
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=504d2b09ad5a
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #18
+DEBUG: Location: Austin, TX, US, Date Posted: N/A, Company: Vivax Pros
+DEBUG: Full description text length: 1813
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=6649d1b9aecf
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #19
+DEBUG: Location: Rancho Cucamonga, CA, US, Date Posted: N/A, Company: NIC Partners
+DEBUG: Full description text length: 8755
+DEBUG: Match found: <re.Match object; span=(6424, 6432), match='5+ years'>
+DEBUG: Experience level determined: Mid-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-19, Refreshed This Week: False
+DEBUG: Saved CSV to talent_jobs.csv
+[2025-06-29 22:35:32.469336] Loaded Jobspresso: 67 rows
+[2025-06-29 22:35:32.498340] Loaded Naukri: 19 rows
+[2025-06-29 22:35:32.528307] Loaded Talent: 19 rows
+[2025-06-29 22:35:32.547757] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-29 22:35:32.547757] === Scraping Job COMPLETED ===
+
+[2025-06-29 22:35:32.548758] 🔁 Completed run 1 of 1
+[2025-06-29 22:48:51.387568] pipeline.py started
+[2025-06-29 22:48:51.387568] 🚀 Automation script started.
+[2025-06-29 22:48:51.387568] === Scraping Job STARTED ===
+[2025-06-29 22:48:51.388679] Running jobspresso.py...
+[2025-06-29 22:49:22.520236] jobspresso.py completed.
+[2025-06-29 22:49:22.520236] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 22:49:22.521246] Running naukri.py...
+[2025-06-29 22:50:02.270332] pipeline.py started
+[2025-06-29 22:50:02.271321] 🚀 Automation script started.
+[2025-06-29 22:50:02.271321] Scheduler started: Will run 1 times every 1 minute.
+[2025-06-29 22:51:02.279929] === Scraping Job STARTED ===
+[2025-06-29 22:51:02.281964] Running jobspresso.py...
+[2025-06-29 22:51:32.297279] jobspresso.py completed.
+[2025-06-29 22:51:32.298277] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 22:51:32.298277] Running naukri.py...
+[2025-06-29 22:54:23.023481] naukri.py completed.
+[2025-06-29 22:54:23.023481] STDOUT: [DEBUG] Navigating to Naukri SDR jobs page...
+[DEBUG] Waiting for job titles to load...
+[DEBUG] Found 20 job links.
+[DEBUG] Waiting for company names to load...
+[DEBUG] Captured 25 company names.
+[DEBUG] Starting individual job page scraping...
+Scraping job 1/25: https://www.naukri.com/job-listings-looking-for-sdr-not-a-seat-warmer-a-door-opener-z-h-consultancy-services-kochi-2-to-7-years-230525015046
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 2/25: https://www.naukri.com/job-listings-sdr-sam-manpower-career-services-bengaluru-1-to-3-years-270625030392
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 3/25: https://www.naukri.com/job-listings-women-from-sdr-become-a-recruiter-wfh-jobs-territory-bengaluru-4-to-9-years-180625012503
+[DEBUG] Raw experience string: 4 - 9 years
+[DEBUG] Extracted Industry Type: Recruitment / Staffing
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 4/25: https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122
+[DEBUG] Job title not found for https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(@class, 'styles_jd-header-title__')]"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Location not found for https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__location__W_pVs"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Logo not found for https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__comp-banner__ynBvr"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Experience info not found for https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__exp__k_giM"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Could not extract outreach tools from https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_JDC__dang-inner-html__h0K4t"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Date posted: 2025-06-29, Refreshed this week? True
+Scraping job 5/25: https://www.naukri.com/job-listings-sdr-professional-pricelabs-remote-1-to-3-years-240625503113
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 6/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-jamnagar-2-to-7-years-250625933927
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 7/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-bhavnagar-2-to-7-years-250625933929
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 8/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-coderenowned-bengaluru-0-to-2-years-160625502082
+[DEBUG] Raw experience string: 0 - 2 years
+[DEBUG] Extracted Industry Type: Advertising & Marketing
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 9/25: https://www.naukri.com/job-listings-sdr-us-healthcare-leadsquared-bengaluru-1-to-4-years-180625503897
+[DEBUG] Raw experience string: 1 - 4 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 10/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-ahmedabad-2-to-7-years-250625933924
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 11/25: https://www.naukri.com/job-listings-sdr-konnect-insights-mumbai-1-to-3-years-230625500132
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 12/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-i4-consulting-bengaluru-2-to-5-years-230625011450
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: FinTech / Payments
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 13/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-for-pooling-portcast-bengaluru-0-to-1-years-180625502551
+[DEBUG] Raw experience string: 0 - 1 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 14/25: https://www.naukri.com/job-listings-sdr-manager-usa-gocomet-bengaluru-2-to-6-years-200625503269
+[DEBUG] Raw experience string: 2 - 6 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 15/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-sharpsell-ai-mumbai-andheri-east-1-to-3-years-230625923570
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 16/25: https://www.naukri.com/job-listings-inside-sales-executive-sdr-aion-tech-solutions-mumbai-all-areas-2-to-5-years-240625014928
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 17/25: https://www.naukri.com/job-listings-sdr-2-trask-bengaluru-4-to-9-years-200625504240
+[DEBUG] Raw experience string: 4 - 9 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 18/25: https://www.naukri.com/job-listings-founding-sdr-weekday-yc-w21-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-3-to-6-years-180625504040
+[DEBUG] Raw experience string: 3 - 6 years
+[DEBUG] Extracted Industry Type: Recruitment / Staffing
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 19/25: https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170
+[DEBUG] Raw experience string: 3 - 5 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 20/25: https://www.naukri.com/job-listings-sdr-senior-manager-apac-jfrog-bengaluru-7-to-12-years-270625503157
+[DEBUG] Raw experience string: 7 - 12 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+[DEBUG] Saving scraped data to CSV...
+Scraped and saved to sdr_jobs_final.csv
+[2025-06-29 22:54:23.024480] Running talent.py...
+[2025-06-29 22:55:17.889305] talent.py completed.
+[2025-06-29 22:55:17.889305] STDOUT: DEBUG: 
+--- Scraping page 1 ---
+DEBUG: Status code: 200 from https://www.talent.com/jobs?k=sales%2Bdevelopment%2Brepresentative&l=united%2Bstates&p=1 with params {'k': 'sales+development+representative', 'l': 'united+states', 'p': 1}
+DEBUG: Found 20 job cards on page 1
+DEBUG: Processing card #1
+DEBUG: Location: Austin, TX, US, Date Posted: N/A, Company: Alpine Solutions Group
+DEBUG: Full description text length: 1874
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=bce7088b024a
+DEBUG: Tools mentioned: Salesforce, HubSpot
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #2
+DEBUG: Location: Reston, VA, US, Date Posted: N/A, Company: NextStage GovCon CRM
+DEBUG: Full description text length: 2786
+DEBUG: Match found: <re.Match object; span=(1474, 1483), match='1-3 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #3
+DEBUG: Location: Twin Falls, ID, US, Date Posted: N/A, Company: Pacific Office Automation
+DEBUG: Full description text length: 3100
+DEBUG: Match found: <re.Match object; span=(491, 499), match='40 years'>
+DEBUG: Experience level determined: N/A
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #4
+DEBUG: Location: Tulsa, OK, US, Date Posted: N/A, Company: Trent Finley-Farmers Insurance Agency
+DEBUG: Full description text length: 4509
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=dbc10945020c
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #5
+DEBUG: Location: Fort Washington, PA, US, Date Posted: N/A, Company: Docutrend Inc.
+DEBUG: Full description text length: 4577
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=f9db74a299d6
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #6
+DEBUG: Location: San Francisco, CA, United States, Date Posted: N/A, Company: Mithrl
+DEBUG: Full description text length: 4186
+DEBUG: Match found: <re.Match object; span=(2191, 2199), match='5+ years'>
+DEBUG: Experience level determined: Mid-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #7
+DEBUG: Location: San Francisco, CA, US, Date Posted: N/A, Company: Vendition
+DEBUG: Full description text length: 1276
+DEBUG: Match found: <re.Match object; span=(63, 71), match='1+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #8
+DEBUG: Location: Houston, TX, United States, Date Posted: N/A, Company: PROS
+DEBUG: Full description text length: 6988
+DEBUG: Match found: <re.Match object; span=(5897, 5906), match='30+ years'>
+DEBUG: Experience level determined: N/A
+DEBUG: Tools mentioned: Salesforce, SalesLoft, ZoomInfo
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #9
+DEBUG: Location: Santa Rosa, CA, US, Date Posted: N/A, Company: TensorStax
+DEBUG: Full description text length: 2886
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=cb639b7ddc72
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #10
+DEBUG: Location: San Francisco Bay Area, United States, Date Posted: N/A, Company: MPH Tech Academy
+DEBUG: Full description text length: 2980
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=0d6fc6ce082e
+DEBUG: Tools mentioned: LinkedIn Sales Navigator
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #11
+DEBUG: Location: Fremont, CA, United States, Date Posted: N/A, Company: Demandforce
+DEBUG: Full description text length: 3526
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=99679235578c
+DEBUG: Tools mentioned: Salesforce
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #12
+DEBUG: Location: East Peoria, IL, United States, Date Posted: N/A, Company: CLAE SOLUTIONS
+DEBUG: Full description text length: 1975
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=bdf0f8d7e814
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-13, Refreshed This Week: False
+DEBUG: Processing card #13
+DEBUG: Location: Utah, United States, United States, Date Posted: N/A, Company: MasterControl
+DEBUG: Full description text length: 6976
+DEBUG: Match found: <re.Match object; span=(3200, 3209), match='1-3 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #14
+DEBUG: Location: Phoenix, AZ, US, Date Posted: N/A, Company: BlueGrace Logistics
+DEBUG: Full description text length: 3800
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=49597f3967de
+DEBUG: Tools mentioned: Salesforce, LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #15
+DEBUG: Location: Jacksonville, FL, United States, Date Posted: N/A, Company: Bill360
+DEBUG: Full description text length: 2734
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=1b2c64050a6b
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #16
+DEBUG: Location: Buffalo, New York, United States, Date Posted: N/A, Company: VirtualVocations
+DEBUG: Full description text length: 741
+DEBUG: Match found: <re.Match object; span=(403, 412), match='1-3 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #17
+DEBUG: Location: Madison, Wisconsin, United States, Date Posted: N/A, Company: Sales Match
+DEBUG: Full description text length: 2030
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=ca54580edb40
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-24, Refreshed This Week: True
+DEBUG: Processing card #18
+DEBUG: Location: Grand Rapids, MI, US, Date Posted: N/A, Company: Universal Traffic Service, Inc.
+DEBUG: Full description text length: 1269
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=62c4ac86f8d0
+DEBUG: Tools mentioned: LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #19
+DEBUG: Location: Hayward, CA, United States, Date Posted: N/A, Company: Dragonfly
+DEBUG: Full description text length: 1805
+DEBUG: Match found: <re.Match object; span=(1289, 1297), match='2+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: HubSpot
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #20
+DEBUG: Location: Austin, TX, US, Date Posted: N/A, Company: Invicti
+DEBUG: Full description text length: 4868
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=3a24e88986d7
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Saved CSV to talent_jobs.csv
+[2025-06-29 22:55:17.928890] Loaded Jobspresso: 67 rows
+[2025-06-29 22:55:17.948998] Loaded Naukri: 19 rows
+[2025-06-29 22:55:17.977902] Loaded Talent: 20 rows
+[2025-06-29 22:55:17.995891] Merged CSV saved with 103 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-29 22:55:17.995891] === Scraping Job COMPLETED ===
+
+[2025-06-29 22:55:17.996905] 🔁 Completed run 1 of 1
+[2025-06-29 23:35:06.373337] pipeline.py started
+[2025-06-29 23:35:06.373337] 🚀 Automation script started.
+[2025-06-29 23:35:06.374320] Scheduler started: Will run 1 times every 1 minute.
+[2025-06-29 23:36:06.380612] === Scraping Job STARTED ===
+[2025-06-29 23:36:06.382638] Running jobspresso.py...
+[2025-06-29 23:36:37.505463] jobspresso.py completed.
+[2025-06-29 23:36:37.505463] STDOUT: Scraped SDR/BDR jobs from Jobspresso and saved to 'sdr_bdr_jobspresso_jobs.csv'
+[2025-06-29 23:36:37.505463] Running naukri.py...
+[2025-06-29 23:39:23.397018] naukri.py completed.
+[2025-06-29 23:39:23.398024] STDOUT: [DEBUG] Navigating to Naukri SDR jobs page...
+[DEBUG] Waiting for job titles to load...
+[DEBUG] Found 20 job links.
+[DEBUG] Waiting for company names to load...
+[DEBUG] Captured 25 company names.
+[DEBUG] Starting individual job page scraping...
+Scraping job 1/25: https://www.naukri.com/job-listings-looking-for-sdr-not-a-seat-warmer-a-door-opener-z-h-consultancy-services-kochi-2-to-7-years-230525015046
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 2/25: https://www.naukri.com/job-listings-sdr-sam-manpower-career-services-bengaluru-1-to-3-years-270625030392
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 3/25: https://www.naukri.com/job-listings-sdr-team-lead-spectra-gurugram-8-to-13-years-230625006122
+[DEBUG] Raw experience string: 8 - 13 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 4/25: https://www.naukri.com/job-listings-sdr-professional-pricelabs-remote-1-to-3-years-240625503113
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 5/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-jamnagar-2-to-7-years-250625933927
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 6/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-bhavnagar-2-to-7-years-250625933929
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 7/25: https://www.naukri.com/job-listings-sdr-us-healthcare-leadsquared-bengaluru-1-to-4-years-180625503897
+[DEBUG] Raw experience string: 1 - 4 years
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 8/25: https://www.naukri.com/job-listings-bde-sdr-omniism-technologies-ahmedabad-2-to-7-years-250625933924
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-25, Refreshed this week? True
+Scraping job 9/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-agami-tech-private-limited-mumbai-gurugram-2-to-7-years-120525501606
+[DEBUG] Raw experience string: 2 - 7 years
+[DEBUG] Extracted Industry Type: Telecom / ISP
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 10/25: https://www.naukri.com/job-listings-sdr-konnect-insights-mumbai-1-to-3-years-230625500132
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 11/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-i4-consulting-bengaluru-2-to-5-years-230625011450
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: FinTech / Payments
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 12/25: https://www.naukri.com/job-listings-enterprise-sales-development-sdr-intern-squadrun-inc-noida-0-to-1-years-120625503426
+[DEBUG] Raw experience string: 3 months duration
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-15, Refreshed this week? False
+Scraping job 13/25: https://www.naukri.com/job-listings-sdr-outbound-keka-hyderabad-2-to-4-years-220525502297
+[DEBUG] Raw experience string: 2 - 4 years
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 14/25: https://www.naukri.com/job-listings-sdr-manager-usa-gocomet-bengaluru-2-to-6-years-200625503269
+[DEBUG] Raw experience string: 2 - 6 years
+[DEBUG] Extracted Industry Type: Courier / Logistics
+[DEBUG] Date posted: 2025-06-22, Refreshed this week? True
+Scraping job 15/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-sharpsell-ai-mumbai-andheri-east-1-to-3-years-230625923570
+[DEBUG] Raw experience string: 1 - 3 years
+[DEBUG] Extracted Industry Type: Software Product
+[DEBUG] Date posted: 2025-06-23, Refreshed this week? True
+Scraping job 16/25: https://www.naukri.com/job-listings-inside-sales-executive-sdr-aion-tech-solutions-mumbai-all-areas-2-to-5-years-240625014928
+[DEBUG] Raw experience string: 2 - 5 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-24, Refreshed this week? True
+Scraping job 17/25: https://www.naukri.com/job-listings-senior-sales-development-representative-sdr-north-america-leena-ai-gurugram-5-to-10-years-221024500647
+[DEBUG] Raw experience string: 5 - 10 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-08, Refreshed this week? False
+Scraping job 18/25: https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170
+[DEBUG] Job title not found for https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(@class, 'styles_jd-header-title__')]"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Location not found for https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__location__W_pVs"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Logo not found for https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__comp-banner__ynBvr"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Experience info not found for https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__exp__k_giM"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Could not extract outreach tools from https://www.naukri.com/job-listings-team-lead-sdr-us-gep-navi-mumbai-3-to-5-years-220625003170: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_JDC__dang-inner-html__h0K4t"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Date posted: 2025-06-29, Refreshed this week? True
+Scraping job 19/25: https://www.naukri.com/job-listings-sdr-senior-manager-apac-jfrog-bengaluru-7-to-12-years-270625503157
+[DEBUG] Raw experience string: 7 - 12 years
+[DEBUG] Extracted Industry Type: IT Services & Consulting
+[DEBUG] Date posted: 2025-06-27, Refreshed this week? True
+Scraping job 20/25: https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524
+[DEBUG] Job title not found for https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(@class, 'styles_jd-header-title__')]"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Location not found for https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__location__W_pVs"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Logo not found for https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__comp-banner__ynBvr"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Experience info not found for https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_jhc__exp__k_giM"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Could not extract outreach tools from https://www.naukri.com/job-listings-sales-development-representative-sdr-practice-league-legal-technology-solutions-pune-3-to-5-years-191224501524: Message: no such element: Unable to locate element: {"method":"css selector","selector":".styles_JDC__dang-inner-html__h0K4t"}
+  (Session info: chrome=138.0.7204.50); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0xf04493+62419]
+	GetHandleVerifier [0x0xf044d4+62484]
+	(No symbol) [0x0xd42133]
+	(No symbol) [0x0xd8a8fe]
+	(No symbol) [0x0xd8ac9b]
+	(No symbol) [0x0xdd3052]
+	(No symbol) [0x0xdaf4b4]
+	(No symbol) [0x0xdd087a]
+	(No symbol) [0x0xdaf266]
+	(No symbol) [0x0xd7e852]
+	(No symbol) [0x0xd7f6f4]
+	GetHandleVerifier [0x0x1174773+2619059]
+	GetHandleVerifier [0x0x116fb8a+2599626]
+	GetHandleVerifier [0x0xf2b03a+221050]
+	GetHandleVerifier [0x0xf1b2b8+156152]
+	GetHandleVerifier [0x0xf21c6d+183213]
+	GetHandleVerifier [0x0xf0c378+94904]
+	GetHandleVerifier [0x0xf0c502+95298]
+	GetHandleVerifier [0x0xef765a+9626]
+	BaseThreadInitThunk [0x0x75f07ba9+25]
+	RtlInitializeExceptionChain [0x0x77e7c3ab+107]
+	RtlClearBits [0x0x77e7c32f+191]
+
+[DEBUG] Date posted: 2025-06-29, Refreshed this week? True
+[DEBUG] Saving scraped data to CSV...
+Scraped and saved to sdr_jobs_final.csv
+[2025-06-29 23:39:23.399025] Running talent.py...
+[2025-06-29 23:40:17.646904] talent.py completed.
+[2025-06-29 23:40:17.647867] STDOUT: DEBUG: 
+--- Scraping page 1 ---
+DEBUG: Status code: 200 from https://www.talent.com/jobs?k=sales%2Bdevelopment%2Brepresentative&l=united%2Bstates&p=1 with params {'k': 'sales+development+representative', 'l': 'united+states', 'p': 1}
+DEBUG: Found 20 job cards on page 1
+DEBUG: Processing card #1
+DEBUG: Location: Salt Lake City, UT, US, Date Posted: N/A, Company: Keeper
+DEBUG: Full description text length: 1742
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=f5741e4b7d29
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #2
+DEBUG: Location: Draper, UT, US, Date Posted: N/A, Company: NexHealth
+DEBUG: Full description text length: 4156
+DEBUG: Match found: <re.Match object; span=(1953, 1960), match='1 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #3
+DEBUG: Location: San Francisco, CA, United States, Date Posted: N/A, Company: Vendition
+DEBUG: Full description text length: 1260
+DEBUG: Match found: <re.Match object; span=(47, 55), match='1+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #4
+DEBUG: Location: San Carlos, CA, US, Date Posted: N/A, Company: WeBox
+DEBUG: Full description text length: 1364
+DEBUG: Match found: <re.Match object; span=(966, 973), match='2 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #5
+DEBUG: Location: Irvine, CA, US, Date Posted: N/A, Company: Super Color Digital, LLC
+DEBUG: Full description text length: 3771
+DEBUG: Match found: <re.Match object; span=(3330, 3339), match='0-2 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce, LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #6
+DEBUG: Location: Charlotte, NC, US, Date Posted: N/A, Company: Econolite Group, Inc.
+DEBUG: Full description text length: 4241
+DEBUG: Match found: <re.Match object; span=(2127, 2135), match='2+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #7
+DEBUG: Location: San Diego, CA, US, Date Posted: N/A, Company: Elevate
+DEBUG: Full description text length: 1877
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=764655309487
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #8
+DEBUG: Location: Minneapolis, MN, US, Date Posted: N/A, Company: NetSPI LLC
+DEBUG: Full description text length: 2523
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=16b6dcd93354
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-05, Refreshed This Week: False
+DEBUG: Processing card #9
+DEBUG: Location: Pompano Beach, FL, US, Date Posted: N/A, Company: Motionpoint Corp
+DEBUG: Full description text length: 2901
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=d9b08b10d785
+DEBUG: Tools mentioned: Salesforce, Outreach.io
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #10
+DEBUG: Location: San Jose, CA, United States, Date Posted: N/A, Company: Dragonfly
+DEBUG: Full description text length: 1805
+DEBUG: Match found: <re.Match object; span=(1289, 1297), match='2+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: HubSpot
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #11
+DEBUG: Location: Indianapolis, IN, US, Date Posted: N/A, Company: Jobsultant Solutions
+DEBUG: Full description text length: 4551
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=8537a66683b0
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #12
+DEBUG: Location: San Francisco, CA, United States, Date Posted: N/A, Company: MPH Tech Academy
+DEBUG: Full description text length: 2980
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=5ed9e5d9f318
+DEBUG: Tools mentioned: LinkedIn Sales Navigator
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #13
+DEBUG: Location: Naples, FL, United States, Date Posted: N/A, Company: EyeMD EMR Healthcare Systems, Inc.
+DEBUG: Full description text length: 2745
+DEBUG: Match found: <re.Match object; span=(1983, 1993), match='2-4+ years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: Salesforce, HubSpot, LinkedIn Sales Navigator
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #14
+DEBUG: Location: Tulsa, OK, US, Date Posted: N/A, Company: Tenstreet
+DEBUG: Full description text length: 4519
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=6a59c7ddd340
+DEBUG: Tools mentioned: SalesLoft
+DEBUG: Parsed Date: 2025-05-30, Refreshed This Week: False
+DEBUG: Processing card #15
+DEBUG: Location: North Peoria, IL, United States, Date Posted: N/A, Company: CLAE SOLUTIONS
+DEBUG: Full description text length: 1975
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=5baac09e0dfc
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-13, Refreshed This Week: False
+DEBUG: Processing card #16
+DEBUG: Location: Lehi, UT, US, Date Posted: N/A, Company: Podium
+DEBUG: Full description text length: 2617
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=0442fe2476ec
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-27, Refreshed This Week: True
+DEBUG: Processing card #17
+DEBUG: Location: Hayward, CA, United States, Date Posted: N/A, Company: SuperOps
+DEBUG: Full description text length: 3329
+DEBUG: Match found: <re.Match object; span=(2727, 2738), match='5 - 5 years'>
+DEBUG: Experience level determined: Mid-level
+DEBUG: Tools mentioned: HubSpot, SalesLoft, LinkedIn Sales Navigator, ZoomInfo
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #18
+DEBUG: Location: Everett, Washington, United States, Date Posted: N/A, Company: VirtualVocations
+DEBUG: Full description text length: 741
+DEBUG: Match found: <re.Match object; span=(403, 412), match='1-3 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-01, Refreshed This Week: False
+DEBUG: Processing card #19
+DEBUG: Location: Austin, Texas Metropolitan Area, United States, Date Posted: N/A, Company: Planview
+DEBUG: Full description text length: 5602
+DEBUG: Match found: None
+DEBUG: No match found for years pattern in https://www.talent.com/en/view?id=00d3febc1f70
+DEBUG: Tools mentioned: Salesforce
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Processing card #20
+DEBUG: Location: Sunnyvale, CA, United States, Date Posted: N/A, Company: xdge
+DEBUG: Full description text length: 3397
+DEBUG: Match found: <re.Match object; span=(2304, 2311), match='2 years'>
+DEBUG: Experience level determined: Entry-level
+DEBUG: Tools mentioned: None
+DEBUG: Parsed Date: 2025-06-23, Refreshed This Week: True
+DEBUG: Saved CSV to talent_jobs.csv
+[2025-06-29 23:40:17.695436] Loaded Jobspresso: 67 rows
+[2025-06-29 23:40:17.697442] Loaded Naukri: 19 rows
+[2025-06-29 23:40:17.727398] Loaded Talent: 20 rows
+[2025-06-29 23:40:17.744677] Merged CSV saved with 103 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-29 23:40:17.744677] === Scraping Job COMPLETED ===
+
+[2025-06-29 23:40:17.744677] 🔁 Completed run 1 of 1
