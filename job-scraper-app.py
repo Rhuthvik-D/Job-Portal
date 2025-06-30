@@ -149,11 +149,18 @@ from datetime import datetime
 import subprocess
 import time
 import os
+import sys
 
 # ---- Config ----
-SCRAPER_PATH = r"D:\SEMS\Repos\ai\Job-Portal\pipeline.py"
-VENV_PYTHON = r"D:\SEMS\Repos\ai\Scripts\python.exe"
-DATA_PATH = r"D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv"
+# SCRAPER_PATH = r"D:\SEMS\Repos\ai\Job-Portal\pipeline.py"
+# VENV_PYTHON = r"D:\SEMS\Repos\ai\Scripts\python.exe"
+# DATA_PATH = r"D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv"
+
+
+BASE_DIR = os.getcwd()  # Use current working directory
+SCRAPER_PATH = os.path.join(BASE_DIR, "pipeline.py")
+VENV_PYTHON = sys.executable
+DATA_PATH = os.path.join(BASE_DIR, "jobspresso_data", "merged_jobs.csv")
 
 # AIRTABLE_API_KEY = "patVLoJbBE5kP0uqY"
 # AIRTABLE_BASE_ID = "appGyohuKbC4Kzw6E"

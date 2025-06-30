@@ -6893,3 +6893,214 @@ DEBUG: Saved CSV to talent_jobs.csv
 [2025-06-30 09:56:21.685872] === Scraping Job COMPLETED ===
 
 [2025-06-30 09:56:21.686873] ✅ Completed scheduled run #9
+[2025-06-30 11:02:04.714951] pipeline.py started
+[2025-06-30 11:02:04.715950] 🚀 Automation script started.
+[2025-06-30 11:02:04.715950] Scheduler started: once every 1 hour, for 24 hours.
+[2025-06-30 11:02:53.264843] pipeline.py started
+[2025-06-30 11:02:53.265857] 🚀 Automation script started.
+[2025-06-30 11:02:53.265857] === Scraping Job STARTED ===
+[2025-06-30 11:02:53.265857] Running jobspresso.py...
+[2025-06-30 11:02:53.302466] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:02:53.302466] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:02:53.302466] Running naukri.py...
+[2025-06-30 11:02:53.329470] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:02:53.329470] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:02:53.329470] Running talent.py...
+[2025-06-30 11:02:53.354152] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:02:53.354152] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:02:53.358148] Loaded Jobspresso: 67 rows
+[2025-06-30 11:02:53.359151] Loaded Naukri: 19 rows
+[2025-06-30 11:02:53.360151] Loaded Talent: 19 rows
+[2025-06-30 11:02:53.366182] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:02:53.366182] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:10:28.364399] pipeline.py started
+[2025-06-30 11:10:28.365798] 🚀 Automation script started.
+[2025-06-30 11:10:28.365798] === Scraping Job STARTED ===
+[2025-06-30 11:10:28.365798] Running jobspresso.py...
+[2025-06-30 11:10:28.387526] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:10:28.387526] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:10:28.387526] Running naukri.py...
+[2025-06-30 11:10:28.417872] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:10:28.417872] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:10:28.417872] Running talent.py...
+[2025-06-30 11:10:28.444114] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:10:28.444114] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:10:28.447113] Loaded Jobspresso: 67 rows
+[2025-06-30 11:10:28.448113] Loaded Naukri: 19 rows
+[2025-06-30 11:10:28.449113] Loaded Talent: 19 rows
+[2025-06-30 11:10:28.455135] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:10:28.455135] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:27:05.279997] pipeline.py started
+[2025-06-30 11:27:05.279997] 🚀 Automation script started.
+[2025-06-30 11:27:05.279997] === Scraping Job STARTED ===
+[2025-06-30 11:27:05.279997] Running jobspresso.py...
+[2025-06-30 11:27:05.305042] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:27:05.305042] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:27:05.305042] Running naukri.py...
+[2025-06-30 11:27:05.331040] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:27:05.331040] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:27:05.331040] Running talent.py...
+[2025-06-30 11:27:05.355408] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:27:05.355408] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:27:05.358416] Loaded Jobspresso: 67 rows
+[2025-06-30 11:27:05.360416] Loaded Naukri: 19 rows
+[2025-06-30 11:27:05.361423] Loaded Talent: 19 rows
+[2025-06-30 11:27:05.368301] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:27:05.368301] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:28:35.463555] pipeline.py started
+[2025-06-30 11:28:35.464554] 🚀 Automation script started.
+[2025-06-30 11:28:35.464554] === Scraping Job STARTED ===
+[2025-06-30 11:28:35.464554] Running jobspresso.py...
+[2025-06-30 11:28:35.495075] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:28:35.495075] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:28:35.495075] Running naukri.py...
+[2025-06-30 11:28:35.525075] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:28:35.525075] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:28:35.526075] Running talent.py...
+[2025-06-30 11:28:35.562076] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:28:35.563077] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:28:35.567075] Loaded Jobspresso: 67 rows
+[2025-06-30 11:28:35.568079] Loaded Naukri: 19 rows
+[2025-06-30 11:28:35.570089] Loaded Talent: 19 rows
+[2025-06-30 11:28:35.579081] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:28:35.579081] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:30:28.295620] pipeline.py started
+[2025-06-30 11:30:28.295620] 🚀 Automation script started.
+[2025-06-30 11:30:28.295620] === Scraping Job STARTED ===
+[2025-06-30 11:30:28.295620] Running jobspresso.py...
+[2025-06-30 11:30:28.324695] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:30:28.324695] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:30:28.324695] Running naukri.py...
+[2025-06-30 11:30:28.352832] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:30:28.352832] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:30:28.352832] Running talent.py...
+[2025-06-30 11:30:28.375805] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:30:28.375805] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:30:28.378816] Loaded Jobspresso: 67 rows
+[2025-06-30 11:30:28.380813] Loaded Naukri: 19 rows
+[2025-06-30 11:30:28.381814] Loaded Talent: 19 rows
+[2025-06-30 11:30:28.388817] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:30:28.388817] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:33:31.371812] pipeline.py started
+[2025-06-30 11:33:31.372785] 🚀 Automation script started.
+[2025-06-30 11:33:31.372785] === Scraping Job STARTED ===
+[2025-06-30 11:33:31.372785] Running jobspresso.py...
+[2025-06-30 11:33:31.397427] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:33:31.397427] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:33:31.397427] Running naukri.py...
+[2025-06-30 11:33:31.432434] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:33:31.433426] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:33:31.433426] Running talent.py...
+[2025-06-30 11:33:31.461478] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:33:31.461478] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:33:31.466001] Loaded Jobspresso: 67 rows
+[2025-06-30 11:33:31.467008] Loaded Naukri: 19 rows
+[2025-06-30 11:33:31.468004] Loaded Talent: 19 rows
+[2025-06-30 11:33:31.475000] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:33:31.475000] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:37:56.227196] pipeline.py started
+[2025-06-30 11:37:56.227196] 🚀 Automation script started.
+[2025-06-30 11:37:56.228191] === Scraping Job STARTED ===
+[2025-06-30 11:37:56.228191] Running jobspresso.py...
+[2025-06-30 11:38:40.486413] pipeline.py started
+[2025-06-30 11:38:40.486413] 🚀 Automation script started.
+[2025-06-30 11:38:40.487413] === Scraping Job STARTED ===
+[2025-06-30 11:38:40.487413] Running jobspresso.py...
+[2025-06-30 11:38:40.510413] ERROR in jobspresso.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\jobspresso.py']' returned non-zero exit status 1.
+[2025-06-30 11:38:40.510413] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\jobspresso.py", line 1, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:38:40.510413] Running naukri.py...
+[2025-06-30 11:38:40.539417] ERROR in naukri.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\naukri.py']' returned non-zero exit status 1.
+[2025-06-30 11:38:40.540418] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\naukri.py", line 106, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+[2025-06-30 11:38:40.540418] Running talent.py...
+[2025-06-30 11:38:40.573983] ERROR in talent.py: Command '['python', 'D:\\SEMS\\Repos\\ai\\Job-Portal\\talent.py']' returned non-zero exit status 1.
+[2025-06-30 11:38:40.573983] STDERR: Traceback (most recent call last):
+  File "D:\SEMS\Repos\ai\Job-Portal\talent.py", line 141, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[2025-06-30 11:38:40.583989] Loaded Jobspresso: 67 rows
+[2025-06-30 11:38:40.587000] Loaded Naukri: 19 rows
+[2025-06-30 11:38:40.587984] Loaded Talent: 19 rows
+[2025-06-30 11:38:40.597004] Merged CSV saved with 102 rows to 'D:\SEMS\Repos\ai\Job-Portal\jobspresso_data\merged_jobs.csv'
+[2025-06-30 11:38:40.597004] === Scraping Job COMPLETED ===
+
+[2025-06-30 11:43:48.366428] pipeline.py started
+[2025-06-30 11:43:48.367552] 🚀 Automation script started.
+[2025-06-30 11:43:48.367552] Scheduler started: once every 1 hour, for 24 hours.
+[2025-06-30 11:44:57.899240] pipeline.py started
+[2025-06-30 11:44:57.900241] 🚀 Automation script started.
+[2025-06-30 11:44:57.900241] Scheduler started: once every 1 hour, for 24 hours.
+[2025-06-30 11:53:05.543412] pipeline.py started
+[2025-06-30 11:53:05.543412] 🚀 Automation script started.
+[2025-06-30 11:53:05.544401] Scheduler started: once every 1 hour, for 24 hours.
+[2025-06-30 12:04:04.886464] pipeline.py started
+[2025-06-30 12:04:04.886464] 🚀 Automation script started.
+[2025-06-30 12:04:04.886464] Scheduler started: once every 1 hour, for 24 hours.
+[2025-06-30 12:16:25.026314] pipeline.py started
+[2025-06-30 12:16:25.026314] 🚀 Automation script started.
+[2025-06-30 12:16:25.026314] Scheduler started: once every 1 hour, for 24 hours.

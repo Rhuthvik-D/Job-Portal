@@ -100,17 +100,18 @@ import datetime
 import os
 from pathlib import Path
 import pandas as pd
-from pyairtable import Table
+import sys
+
 
 # Paths
-BASE_DIR = r"D:\SEMS\Repos\ai\Job-Portal"
+BASE_DIR = os.getcwd()
 OUTPUT_DIR = os.path.join(BASE_DIR, "jobspresso_data")
 JOBSPRESSO_SCRIPT = os.path.join(BASE_DIR, "jobspresso.py")
 NAUKRI_SCRIPT = os.path.join(BASE_DIR, "naukri.py")
 TALENT_SCRIPT = os.path.join(BASE_DIR, "talent.py")
 LOG_FILE = os.path.join(OUTPUT_DIR, "scraper_log.txt")
 MERGED_FILE = os.path.join(OUTPUT_DIR, "merged_jobs.csv")
-VENV_PYTHON = r"D:\SEMS\Repos\ai\Scripts\python.exe"
+VENV_PYTHON = sys.executable  # Use the current Python executable
 # AIRTABLE_API_KEY = "patVLoJbBE5kP0uqY"
 # AIRTABLE_BASE_ID = "appGyohuKbC4Kzw6E"
 # AIRTABLE_TABLE_NAME = "Job Listings"

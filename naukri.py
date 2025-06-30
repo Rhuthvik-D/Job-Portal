@@ -318,4 +318,3 @@ df = df.drop_duplicates(subset=['Job Title', 'Company'])
 debug("Saving scraped data to CSV...")
 df.to_csv("sdr_jobs_final.csv", index=False)
 print("Scraped and saved to sdr_jobs_final.csv")
-
