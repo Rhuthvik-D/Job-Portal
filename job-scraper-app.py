@@ -149,7 +149,6 @@ from datetime import datetime
 import subprocess
 import time
 import os
-from pyairtable import Table
 
 # ---- Config ----
 SCRAPER_PATH = r"D:\SEMS\Repos\ai\Job-Portal\pipeline.py"
